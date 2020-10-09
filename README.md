@@ -35,7 +35,11 @@ by [Eric Ries]() - Sep 2011
 ## Podcasts
 *Some of the most viewed, popular, recommended videos related to Venture Capital.*
 
-* *Lists coming soon..*
+* [The a16Z Podcast](https://a16z.com/a16z-podcast/) by Andreessen Horowitz
+* [The Bootstrapped VC](https://backstagecapital.com/podcast/) by Backstage Capital
+* Greymatters [iTunes](https://podcasts.apple.com/us/podcast/greymatter/id1089013200) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjA1MzIzMjU0L3NvdW5kcy5yc3M?ved=2ahUKEwj9lpv_l83qAhWJpp4KHciGDvsQ4aUDegQIARAC) | [Soundcloud](https://soundcloud.com/greylock-partners) | [Spotify](https://open.spotify.com/show/2rFbJfhplU2vifyhW00vHx?si=DlbJPB3YT_C-ena0_9MGIA) by Greylock Partners
+* [The Full Ratchet](https://fullratchet.net/podcast-episodes/) by Nick Moran
+* [The Twenty Minute VC](https://thetwentyminutevc.com/) by Harry Stebbings
 
 ## Videos
 *Some of the most viewed, popular, recommended videos related to Venture Capital.*
@@ -54,3 +58,4 @@ by [Eric Ries]() - Sep 2011
 * [Founders Fund](https://foundersfund.com/) - USA
 * [GGV Capital](https://www.ggvc.com/) - USA, Singapore, China
 * [IVP](https://www.ivp.com/) - CA, USA
+* [Greaylock Partners](https://greylock.com/)

@@ -19,7 +19,10 @@ The below are not lists (or database) of everything "venture capital". Let's not
 - Some influencers may not have a personal website, social links. Use your best judgement to find some reference to the influencer (a page about them in their company website, wikipedia, ..)
 
 ## Adding Podcasts
-TBD
+- Format:
+  - Podcast name, Website(if they have) or hosting urls by Company or individual that hosts the podcast
+  - Example: *[Name of podcast](podcast' website) by Company name*
+- If the podcast does not have a website, then use individual urls that the podcast is on, like iTunes, Spotify etc.
 
 ## Adding Videos
 TBD
